@@ -19,5 +19,6 @@ def speak_to_grandma(words)
     print "NO, NOT SINCE 1938!"
   else
     print "HUH?! SPEAK UP, SONNY!"
+    speak_to_grandma
   end
 end
